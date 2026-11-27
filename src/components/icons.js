@@ -1,0 +1,23 @@
+// Import individual icons so the dev server only sends the icons used by the app.
+export { default as AlertTriangle } from 'lucide-react/dist/esm/icons/triangle-alert.js';
+export { default as ArrowRight } from 'lucide-react/dist/esm/icons/arrow-right.js';
+export { default as BarChart3 } from 'lucide-react/dist/esm/icons/chart-column.js';
+export { default as Bug } from 'lucide-react/dist/esm/icons/bug.js';
+export { default as Camera } from 'lucide-react/dist/esm/icons/camera.js';
+export { default as Key } from 'lucide-react/dist/esm/icons/key.js';
+export { default as Leaf } from 'lucide-react/dist/esm/icons/leaf.js';
+export { default as Menu } from 'lucide-react/dist/esm/icons/menu.js';
+export { default as MessageSquare } from 'lucide-react/dist/esm/icons/message-square.js';
+export { default as RefreshCw } from 'lucide-react/dist/esm/icons/refresh-cw.js';
+export { default as Send } from 'lucide-react/dist/esm/icons/send.js';
+export { default as Server } from 'lucide-react/dist/esm/icons/server.js';
+export { default as Settings } from 'lucide-react/dist/esm/icons/settings.js';
+export { default as Shield } from 'lucide-react/dist/esm/icons/shield.js';
+export { default as Sparkles } from 'lucide-react/dist/esm/icons/sparkles.js';
+export { default as Sprout } from 'lucide-react/dist/esm/icons/sprout.js';
+export { default as Stethoscope } from 'lucide-react/dist/esm/icons/stethoscope.js';
+export { default as Trash2 } from 'lucide-react/dist/esm/icons/trash-2.js';
+export { default as Upload } from 'lucide-react/dist/esm/icons/upload.js';
+export { default as Wheat } from 'lucide-react/dist/esm/icons/wheat.js';
+export { default as X } from 'lucide-react/dist/esm/icons/x.js';
+export { default as Zap } from 'lucide-react/dist/esm/icons/zap.js';
